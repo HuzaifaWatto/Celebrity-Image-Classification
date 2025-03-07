@@ -122,7 +122,3 @@ If you have any questions, feel free to connect with me:
 
 - **Kaggle**: [HuzaifaWatto](https://www.kaggle.com/huzaifawatto)  
 - **GitHub**: [HuzaifaWatto](https://github.com/HuzaifaWatto)  
-
----
-
-Let me know if you also want a **custom project banner image prompt** for your GitHub repo! 🚀
